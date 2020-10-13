@@ -9,7 +9,7 @@ Welcome to the *CRUD operations with NodeJS and Python with Astra* workshop! In 
 
 Using Astra, the cloud based Cassandra-as-a-Service platform delivered by DataStax, we will cover the very first steps for every developer who wants to try to learn a new database: **CRUD operations.**
 
-## Video Recordings 
+## Watch the Workshop Recordings 
 
 - 📺 [Wednesday, october 7th *(NAM Time)*](https://www.youtube.com/watch?v=3KsR59Y2_Uw)
 
