@@ -1,4 +1,4 @@
-# 🎓🔥 CRUD operations with NodeJS and Python
+# 🚀 CRUD operations with NodeJS and Python
 
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://gitpod.io/#https://github.com/DataStax-Academy/workshop-crud-with-python-and-node/)
@@ -23,10 +23,6 @@ Using Astra, the cloud based Cassandra-as-a-Service platform delivered by DataSt
 2. [Hands-on](#)
     1. [Execute CRUD operations with **NodeJS**](crud-nodejs/README.md)
     2. [Execute CRUD operations with **Python**](crud-python/README.md)
-3. [Materials](#)
-    1. [Ask Questions on community](https://community.datastax.com/)
-    2. [Join our Discord chat](https://bit.ly/cassandra-workshop)
-    2. [Get the Slides](slides/Presentation.pdf)
 
 ## 1. Setup Database
 
