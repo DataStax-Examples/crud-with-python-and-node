@@ -26,7 +26,7 @@ Using Astra, the cloud based Cassandra-as-a-Service platform delivered by DataSt
 
 ## 1. Setup Database
 
-To get started with a free-forever, zero-install Cassandra database **[click here](https://dtsx.io/workshop)** 🚀. 
+To get started with a free-forever, zero-install Cassandra database **[click here](http://astra.datastax.com)** 🚀. 
 
 - **✅ Step 1a. SignIn** : 
 
@@ -176,7 +176,7 @@ spacecraft_speed_over_time
 
 ## 2. Setup IDE
 
-**✅  Open Gitpod** : [Gitpod](http://www.gitpod.io/?utm_source=datastax&utm_medium=referral&utm_campaign=datastaxworkshops) is an IDE 100% online based on Eclipse Theia. To initialize your environment simply click on the button below *(CTRL + Click to open in new tab)*
+**✅  Open Gitpod** : [Gitpod](http://www.gitpod.io/) is an IDE 100% online based on Eclipse Theia. To initialize your environment simply click on the button below *(CTRL + Click to open in new tab)*
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DataStax-Examples/crud-with-python-and-node/)
 
