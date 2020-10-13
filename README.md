@@ -4,7 +4,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://gitpod.io/#https://github.com/DataStax-Academy/workshop-crud-with-python-and-node/)
 ![version](https://img.shields.io/badge/version-0.0.1-blue)
 
-This example is based on the  *CRUD operations with NodeJS and Python with Astra* workshop, presented by the Developer Advocates. It walks you through the basics of connecting, updating and reading records from the powerful distributed NoSQL database Apache Cassandra. Execute CRUD operations against Astra either with Node.js or Python.
+This example is based on the  *CRUD operations with NodeJS and Python with Astra* workshop, presented by the Developer Advocates. It walks you through the basics of connecting, updating and reading records from the powerful distributed NoSQL database Apache Cassandra. Execute CRUD operations against Astra either with NodeJS or Python.
 
 Using Astra, the cloud based Cassandra-as-a-Service platform delivered by DataStax, we will cover the very first steps for every developer who wants to try to learn a new database: **CRUD operations.**
 
