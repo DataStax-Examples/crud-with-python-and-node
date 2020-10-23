@@ -25,7 +25,7 @@ Using Astra, the cloud based Cassandra-as-a-Service platform delivered by DataSt
 
 ## 1. Setup Database
 
-To get started with a free-forever, zero-install Cassandra database **[click here](http://astra.datastax.com)** 🚀. 
+To get started with a free-forever, zero-install Cassandra database **[click here](https://astra.datastax.com/register?utm_source=devplay&utm_medium=github&utm_campaign=crud-with-python-and-node)** 🚀. 
 
 - **✅ Step 1a. SignIn** : 
 
